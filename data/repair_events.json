@@ -1,0 +1,387 @@
+[
+  {
+    "date": 4191,
+    "factor": 0.8333333333333334,
+    "ticker": "AAME"
+  },
+  {
+    "date": 5376,
+    "factor": 0.8333333333333334,
+    "ticker": "AAME"
+  },
+  {
+    "date": 5584,
+    "factor": 0.8,
+    "ticker": "ADI"
+  },
+  {
+    "date": 4407,
+    "factor": 0.6666666666666666,
+    "ticker": "AFG"
+  },
+  {
+    "date": 5996,
+    "factor": 2.0,
+    "ticker": "AROW"
+  },
+  {
+    "date": 15673,
+    "factor": 1.2987012987012987,
+    "ticker": "ASML"
+  },
+  {
+    "date": 5979,
+    "factor": 0.5,
+    "ticker": "ASRV"
+  },
+  {
+    "date": 6852,
+    "factor": 0.6666666666666666,
+    "ticker": "ATRO"
+  },
+  {
+    "date": 17815,
+    "factor": 0.8695652173913044,
+    "ticker": "ATROB"
+  },
+  {
+    "date": 12919,
+    "factor": 0.5,
+    "ticker": "BAK"
+  },
+  {
+    "date": 16521,
+    "factor": 0.8333333333333334,
+    "ticker": "BBD"
+  },
+  {
+    "date": 16521,
+    "factor": 0.8333333333333334,
+    "ticker": "BBDO"
+  },
+  {
+    "date": 16472,
+    "factor": 2.0,
+    "ticker": "BKYI"
+  },
+  {
+    "date": 14557,
+    "factor": 0.08333333333333333,
+    "ticker": "BRGO"
+  },
+  {
+    "date": 8964,
+    "factor": 3.0,
+    "ticker": "BSRR"
+  },
+  {
+    "date": 14167,
+    "factor": 0.8333333333333334,
+    "ticker": "CHT"
+  },
+  {
+    "date": 9652,
+    "factor": 4.0,
+    "ticker": "CIVB"
+  },
+  {
+    "date": 6720,
+    "factor": 2.0,
+    "ticker": "CPF"
+  },
+  {
+    "date": 8265,
+    "factor": 2.0,
+    "ticker": "CTO"
+  },
+  {
+    "date": 14641,
+    "factor": 2.0,
+    "ticker": "CUEN"
+  },
+  {
+    "date": 6668,
+    "factor": 0.6666666666666666,
+    "ticker": "CVBF"
+  },
+  {
+    "date": 18848,
+    "factor": 2.0,
+    "ticker": "DWNX"
+  },
+  {
+    "date": 6181,
+    "factor": 0.6666666666666666,
+    "ticker": "EACO"
+  },
+  {
+    "date": 12363,
+    "factor": 0.6666666666666666,
+    "ticker": "EEGI"
+  },
+  {
+    "date": 12706,
+    "factor": 4.0,
+    "ticker": "ETCK"
+  },
+  {
+    "date": 16028,
+    "factor": 2.0,
+    "ticker": "EVGN"
+  },
+  {
+    "date": 4337,
+    "factor": 0.8333333333333334,
+    "ticker": "FLXS"
+  },
+  {
+    "date": 10868,
+    "factor": 2.0,
+    "ticker": "FMNB"
+  },
+  {
+    "date": 15155,
+    "factor": 3.0,
+    "ticker": "FUPEF"
+  },
+  {
+    "date": 16909,
+    "factor": 0.702253108874513,
+    "ticker": "FWONA"
+  },
+  {
+    "date": 16909,
+    "factor": 0.7320960422155861,
+    "ticker": "FWONK"
+  },
+  {
+    "date": 12853,
+    "factor": 0.5,
+    "ticker": "FZRO"
+  },
+  {
+    "date": 18900,
+    "factor": 100.0,
+    "ticker": "GHST"
+  },
+  {
+    "date": 5263,
+    "factor": 0.5,
+    "ticker": "GL"
+  },
+  {
+    "date": 5738,
+    "factor": 0.5,
+    "ticker": "GL"
+  },
+  {
+    "date": 16560,
+    "factor": 2.0,
+    "ticker": "HBIA"
+  },
+  {
+    "date": 7053,
+    "factor": 2.0,
+    "ticker": "HWKN"
+  },
+  {
+    "date": 12836,
+    "factor": 3.0,
+    "ticker": "ILST"
+  },
+  {
+    "date": 6000,
+    "factor": 0.6666666666666666,
+    "ticker": "JJSF"
+  },
+  {
+    "date": 4914,
+    "factor": 0.5,
+    "ticker": "JWN"
+  },
+  {
+    "date": 6011,
+    "factor": 0.5,
+    "ticker": "JWN"
+  },
+  {
+    "date": 16491,
+    "factor": 0.5,
+    "ticker": "LINK"
+  },
+  {
+    "date": 18586,
+    "factor": 6.0,
+    "ticker": "LIXT"
+  },
+  {
+    "date": 5144,
+    "factor": 0.5,
+    "ticker": "LNC"
+  },
+  {
+    "date": 4323,
+    "factor": 0.6666666666666666,
+    "ticker": "LOW"
+  },
+  {
+    "date": 7193,
+    "factor": 0.8333333333333334,
+    "ticker": "MKL"
+  },
+  {
+    "date": 3968,
+    "factor": 0.5,
+    "ticker": "MMC"
+  },
+  {
+    "date": 16527,
+    "factor": 2.0,
+    "ticker": "NHNKY"
+  },
+  {
+    "date": 18351,
+    "factor": 0.5,
+    "ticker": "NNDNF"
+  },
+  {
+    "date": 4956,
+    "factor": 2.0,
+    "ticker": "ODC"
+  },
+  {
+    "date": 13850,
+    "factor": 2.0,
+    "ticker": "OMTK"
+  },
+  {
+    "date": 5443,
+    "factor": 0.75,
+    "ticker": "ONB"
+  },
+  {
+    "date": 5814,
+    "factor": 0.75,
+    "ticker": "ONB"
+  },
+  {
+    "date": 6045,
+    "factor": 0.5,
+    "ticker": "ONB"
+  },
+  {
+    "date": 4268,
+    "factor": 0.6666666666666666,
+    "ticker": "PH"
+  },
+  {
+    "date": 16147,
+    "factor": 4.0,
+    "ticker": "PHIL"
+  },
+  {
+    "date": 6507,
+    "factor": 0.9090909090909091,
+    "ticker": "RELL"
+  },
+  {
+    "date": 11878,
+    "factor": 0.5,
+    "ticker": "RUSHB"
+  },
+  {
+    "date": 5600,
+    "factor": 0.5,
+    "ticker": "SFNC"
+  },
+  {
+    "date": 17751,
+    "factor": 0.1,
+    "ticker": "SILEF"
+  },
+  {
+    "date": 5324,
+    "factor": 0.5,
+    "ticker": "SSY"
+  },
+  {
+    "date": 2507,
+    "factor": 0.75,
+    "ticker": "SWN"
+  },
+  {
+    "date": 3961,
+    "factor": 0.6666666666666666,
+    "ticker": "THC"
+  },
+  {
+    "date": 4137,
+    "factor": 0.5,
+    "ticker": "THC"
+  },
+  {
+    "date": 18899,
+    "factor": 0.2,
+    "ticker": "TOYOF"
+  },
+  {
+    "date": 6046,
+    "factor": 2.0,
+    "ticker": "TRST"
+  },
+  {
+    "date": 6003,
+    "factor": 0.5,
+    "ticker": "TRV"
+  },
+  {
+    "date": 4855,
+    "factor": 0.5,
+    "ticker": "TSN"
+  },
+  {
+    "date": 5584,
+    "factor": 0.5,
+    "ticker": "TSN"
+  },
+  {
+    "date": 5949,
+    "factor": 0.5,
+    "ticker": "TSN"
+  },
+  {
+    "date": 6620,
+    "factor": 2.0,
+    "ticker": "UBSI"
+  },
+  {
+    "date": 2141,
+    "factor": 0.5,
+    "ticker": "UVV"
+  },
+  {
+    "date": 15782,
+    "factor": 6.0,
+    "ticker": "VEII"
+  },
+  {
+    "date": 16995,
+    "factor": 4.0,
+    "ticker": "VIAAY"
+  },
+  {
+    "date": 17970,
+    "factor": 0.75,
+    "ticker": "WIT"
+  },
+  {
+    "date": 5282,
+    "factor": 2.0,
+    "ticker": "WSO-B"
+  },
+  {
+    "date": 14810,
+    "factor": 0.5,
+    "ticker": "WY"
+  }
+]

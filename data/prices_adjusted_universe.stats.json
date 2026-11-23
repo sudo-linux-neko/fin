@@ -1,0 +1,2417 @@
+{
+  "adjustment": "NONE — vendor pre-adjusted (see DECISIONS.md D11)",
+  "adv_pass": 7592263,
+  "ambiguous_events": [
+    {
+      "date": 1811,
+      "event_close": 1.9581077098846436,
+      "k": 1.02,
+      "prev_close": null,
+      "ticker": "IFF"
+    },
+    {
+      "date": 2776,
+      "event_close": 0.6285845041275024,
+      "k": 1.3333333333333333,
+      "prev_close": 0.036527715623378754,
+      "ticker": "HUBB"
+    },
+    {
+      "date": 3421,
+      "event_close": 1.9480143785476685,
+      "k": 1.3333333333333333,
+      "prev_close": null,
+      "ticker": "APA"
+    },
+    {
+      "date": 3940,
+      "event_close": 3.473548173904419,
+      "k": 2.0,
+      "prev_close": null,
+      "ticker": "HP"
+    },
+    {
+      "date": 3961,
+      "event_close": 1.5466654300689697,
+      "k": 3.0,
+      "prev_close": null,
+      "ticker": "CBT"
+    },
+    {
+      "date": 4143,
+      "event_close": 0.8203723430633545,
+      "k": 1.5,
+      "prev_close": 0.5469149351119995,
+      "ticker": "GRC"
+    },
+    {
+      "date": 4199,
+      "event_close": 0.008482911624014378,
+      "k": 12.43,
+      "prev_close": 0.000682453450281173,
+      "ticker": "WTRG"
+    },
+    {
+      "date": 4662,
+      "event_close": -0.02227170206606388,
+      "k": 1.5,
+      "prev_close": -0.01484779454767704,
+      "ticker": "ERIC"
+    },
+    {
+      "date": 4830,
+      "event_close": 0.06491875648498535,
+      "k": 1.5,
+      "prev_close": 0.043279167264699936,
+      "ticker": "BRO"
+    },
+    {
+      "date": 5009,
+      "event_close": -2.399179697036743,
+      "k": 2.0,
+      "prev_close": -2.3277764320373535,
+      "ticker": "SEE"
+    },
+    {
+      "date": 6088,
+      "event_close": 1.5990617275238037,
+      "k": 3.0,
+      "prev_close": null,
+      "ticker": "FNB"
+    },
+    {
+      "date": 6172,
+      "event_close": 14.145718574523926,
+      "k": 3.0,
+      "prev_close": null,
+      "ticker": "DXYN"
+    },
+    {
+      "date": 6469,
+      "event_close": 0.7287775874137878,
+      "k": 1.5,
+      "prev_close": 0.47344812750816345,
+      "ticker": "FLIC"
+    },
+    {
+      "date": 6479,
+      "event_close": 0.7017041444778442,
+      "k": 2.0,
+      "prev_close": null,
+      "ticker": "JCI"
+    },
+    {
+      "date": 6482,
+      "event_close": 9.9304838180542,
+      "k": 1.5,
+      "prev_close": 6.62031888961792,
+      "ticker": "INDB"
+    },
+    {
+      "date": 6483,
+      "event_close": 8.247031211853027,
+      "k": 1.5,
+      "prev_close": 5.498020648956299,
+      "ticker": "CHCO"
+    },
+    {
+      "date": 6682,
+      "event_close": 0.990821123123169,
+      "k": 1.5,
+      "prev_close": 0.6605473756790161,
+      "ticker": "ELSE"
+    },
+    {
+      "date": 6942,
+      "event_close": 8.705897331237793,
+      "k": 1.5,
+      "prev_close": 5.8039326667785645,
+      "ticker": "CHCO"
+    },
+    {
+      "date": 7071,
+      "event_close": 1.1648484468460083,
+      "k": 4.0,
+      "prev_close": -28.637781143188477,
+      "ticker": "SEE"
+    },
+    {
+      "date": 7092,
+      "event_close": 4.3264689445495605,
+      "k": 1.5,
+      "prev_close": 2.884312629699707,
+      "ticker": "TMP"
+    },
+    {
+      "date": 7386,
+      "event_close": 7.8781046867370605,
+      "k": 50.0,
+      "prev_close": null,
+      "ticker": "JOE"
+    },
+    {
+      "date": 7510,
+      "event_close": 3.5,
+      "k": 0.01,
+      "prev_close": 6.25,
+      "ticker": "ICCC"
+    },
+    {
+      "date": 7519,
+      "event_close": 0.12168895453214645,
+      "k": 0.4,
+      "prev_close": 0.3042225241661072,
+      "ticker": "IPAR"
+    },
+    {
+      "date": 8027,
+      "event_close": 1.2371288537979126,
+      "k": 0.1,
+      "prev_close": 0.239444300532341,
+      "ticker": "MUX"
+    },
+    {
+      "date": 8173,
+      "event_close": 0.3959257900714874,
+      "k": 0.5,
+      "prev_close": 0.7918506264686584,
+      "ticker": "UNIB"
+    },
+    {
+      "date": 9343,
+      "event_close": 3.1733474731445312,
+      "k": 1.5,
+      "prev_close": 2.1155648231506348,
+      "ticker": "PWOD"
+    },
+    {
+      "date": 9497,
+      "event_close": 8.194777488708496,
+      "k": 1.5,
+      "prev_close": 5.463184833526611,
+      "ticker": "FRAF"
+    },
+    {
+      "date": 9506,
+      "event_close": 0.36062219738960266,
+      "k": 0.1,
+      "prev_close": 0.02704666741192341,
+      "ticker": "PRPH"
+    },
+    {
+      "date": 9625,
+      "event_close": 2.3466691970825195,
+      "k": 0.25,
+      "prev_close": 9.386676788330078,
+      "ticker": "CIVB"
+    },
+    {
+      "date": 9812,
+      "event_close": 2.2751054763793945,
+      "k": 7.0,
+      "prev_close": 1.1286650896072388,
+      "ticker": "SIEB"
+    },
+    {
+      "date": 10294,
+      "event_close": 0.6328129768371582,
+      "k": 0.25,
+      "prev_close": 0.984375,
+      "ticker": "UUU"
+    },
+    {
+      "date": 10322,
+      "event_close": 121.97431945800781,
+      "k": 0.025,
+      "prev_close": 228.7018280029297,
+      "ticker": "NHTC"
+    },
+    {
+      "date": 10347,
+      "event_close": 0.7302857041358948,
+      "k": 0.5,
+      "prev_close": 0.5355428457260132,
+      "ticker": "TATT"
+    },
+    {
+      "date": 10681,
+      "event_close": 63439848.0,
+      "k": 0.05,
+      "prev_close": 1205357184.0,
+      "ticker": "ARAO"
+    },
+    {
+      "date": 10849,
+      "event_close": 6.252610206604004,
+      "k": 3.0,
+      "prev_close": null,
+      "ticker": "CX"
+    },
+    {
+      "date": 10878,
+      "event_close": 8.093581199645996,
+      "k": 1.5,
+      "prev_close": 5.395718097686768,
+      "ticker": "HWBK"
+    },
+    {
+      "date": 10959,
+      "event_close": 7.29531717300415,
+      "k": 1.8,
+      "prev_close": 5.133742332458496,
+      "ticker": "GPK"
+    },
+    {
+      "date": 11136,
+      "event_close": 909.2999877929688,
+      "k": 0.0002,
+      "prev_close": 15000.0,
+      "ticker": "PVCT"
+    },
+    {
+      "date": 11487,
+      "event_close": 600000.0,
+      "k": 13.0,
+      "prev_close": 439242.4375,
+      "ticker": "JKSM"
+    },
+    {
+      "date": 11554,
+      "event_close": 689.9965209960938,
+      "k": 0.25,
+      "prev_close": 2399.986572265625,
+      "ticker": "NWCN"
+    },
+    {
+      "date": 11687,
+      "event_close": 65.62999725341797,
+      "k": 0.04,
+      "prev_close": 140.6300048828125,
+      "ticker": "EBYH"
+    },
+    {
+      "date": 11690,
+      "event_close": 0.875,
+      "k": 0.02,
+      "prev_close": 0.25,
+      "ticker": "SCRH"
+    },
+    {
+      "date": 11732,
+      "event_close": 10.5,
+      "k": 4.0,
+      "prev_close": 6.375,
+      "ticker": "SCRH"
+    },
+    {
+      "date": 11739,
+      "event_close": 468750.0,
+      "k": 0.16666666666666666,
+      "prev_close": 2819548.75,
+      "ticker": "ARAO"
+    },
+    {
+      "date": 11899,
+      "event_close": 0.675000011920929,
+      "k": 0.1,
+      "prev_close": 0.47999998927116394,
+      "ticker": "MSTR"
+    },
+    {
+      "date": 11942,
+      "event_close": 1250.0,
+      "k": 0.04,
+      "prev_close": 78125.0,
+      "ticker": "ARAO"
+    },
+    {
+      "date": 11960,
+      "event_close": 2727.272705078125,
+      "k": 0.01,
+      "prev_close": null,
+      "ticker": "SMCE"
+    },
+    {
+      "date": 12038,
+      "event_close": 2.9000000953674316,
+      "k": 0.5,
+      "prev_close": 2.0399999618530273,
+      "ticker": "MACE"
+    },
+    {
+      "date": 12130,
+      "event_close": 0.9148073792457581,
+      "k": 0.01,
+      "prev_close": 0.6098716855049133,
+      "ticker": "NHTC"
+    },
+    {
+      "date": 12149,
+      "event_close": 57692.30859375,
+      "k": 3.0,
+      "prev_close": 42005.0,
+      "ticker": "RLBD"
+    },
+    {
+      "date": 12283,
+      "event_close": 2.5,
+      "k": 0.02,
+      "prev_close": 125.0,
+      "ticker": "ARAO"
+    },
+    {
+      "date": 12380,
+      "event_close": 0.08124999701976776,
+      "k": 0.1,
+      "prev_close": 0.75,
+      "ticker": "ETCK"
+    },
+    {
+      "date": 12395,
+      "event_close": 1.5,
+      "k": 0.05,
+      "prev_close": 3.0,
+      "ticker": "HGBL"
+    },
+    {
+      "date": 12396,
+      "event_close": 45.0,
+      "k": 10.0,
+      "prev_close": 4.5,
+      "ticker": "ARAO"
+    },
+    {
+      "date": 12417,
+      "event_close": 0.75,
+      "k": 0.2,
+      "prev_close": 0.4749999940395355,
+      "ticker": "SCRH"
+    },
+    {
+      "date": 12488,
+      "event_close": 75.74961853027344,
+      "k": 0.025,
+      "prev_close": 209.9989471435547,
+      "ticker": "NWCN"
+    },
+    {
+      "date": 12573,
+      "event_close": 0.36000001430511475,
+      "k": 0.25,
+      "prev_close": 2.4000089168548584,
+      "ticker": "ATYG"
+    },
+    {
+      "date": 12660,
+      "event_close": 57.5,
+      "k": 0.016666666666666666,
+      "prev_close": 95.80838012695312,
+      "ticker": "VTNR"
+    },
+    {
+      "date": 12676,
+      "event_close": 2.0,
+      "k": 6.0,
+      "prev_close": 0.5830000042915344,
+      "ticker": "RCAR"
+    },
+    {
+      "date": 12682,
+      "event_close": 15.894696235656738,
+      "k": 0.3333333333333333,
+      "prev_close": 32.24020004272461,
+      "ticker": "ALE"
+    },
+    {
+      "date": 12690,
+      "event_close": 22.958341598510742,
+      "k": 1.1,
+      "prev_close": 15.257170677185059,
+      "ticker": "PGC"
+    },
+    {
+      "date": 12745,
+      "event_close": 11.0,
+      "k": 0.05,
+      "prev_close": 36.0,
+      "ticker": "LOGQ"
+    },
+    {
+      "date": 12821,
+      "event_close": 22954546.0,
+      "k": 0.0033333333333333335,
+      "prev_close": null,
+      "ticker": "SNWR"
+    },
+    {
+      "date": 12845,
+      "event_close": 1.0099999904632568,
+      "k": 0.1,
+      "prev_close": 4.5,
+      "ticker": "ARAO"
+    },
+    {
+      "date": 12849,
+      "event_close": 14.45727825164795,
+      "k": 1.5,
+      "prev_close": 9.804364204406738,
+      "ticker": "BOTJ"
+    },
+    {
+      "date": 12851,
+      "event_close": 3.916280746459961,
+      "k": 1.5,
+      "prev_close": null,
+      "ticker": "HNNA"
+    },
+    {
+      "date": 12891,
+      "event_close": 14.999250411987305,
+      "k": 0.0004,
+      "prev_close": 100.0,
+      "ticker": "RLBD"
+    },
+    {
+      "date": 12977,
+      "event_close": 143.0,
+      "k": 0.5,
+      "prev_close": 62.91999816894531,
+      "ticker": "INVU"
+    },
+    {
+      "date": 13033,
+      "event_close": 1.4900000095367432,
+      "k": 0.3333333333333333,
+      "prev_close": 1.0200010538101196,
+      "ticker": "ATYG"
+    },
+    {
+      "date": 13291,
+      "event_close": 66.00006866455078,
+      "k": 0.16666666666666666,
+      "prev_close": 107.9784927368164,
+      "ticker": "LQWC"
+    },
+    {
+      "date": 13431,
+      "event_close": 60000.0,
+      "k": 0.002,
+      "prev_close": null,
+      "ticker": "VIRA"
+    },
+    {
+      "date": 13444,
+      "event_close": 10.100000381469727,
+      "k": 0.01,
+      "prev_close": null,
+      "ticker": "GURE"
+    },
+    {
+      "date": 13516,
+      "event_close": 271.5,
+      "k": 0.1,
+      "prev_close": 167.0,
+      "ticker": "PLX"
+    },
+    {
+      "date": 13553,
+      "event_close": 2.0988330841064453,
+      "k": 10.0,
+      "prev_close": 1.099388837814331,
+      "ticker": "VTXB"
+    },
+    {
+      "date": 13605,
+      "event_close": 1000.0,
+      "k": 0.2,
+      "prev_close": 612.5,
+      "ticker": "NEON"
+    },
+    {
+      "date": 13649,
+      "event_close": 46.79999923706055,
+      "k": 0.2,
+      "prev_close": null,
+      "ticker": "SLNG"
+    },
+    {
+      "date": 13662,
+      "event_close": 19.0,
+      "k": 1.2,
+      "prev_close": 10.0,
+      "ticker": "CIRX"
+    },
+    {
+      "date": 13686,
+      "event_close": 10.221942901611328,
+      "k": 2.0,
+      "prev_close": null,
+      "ticker": "AIQUY"
+    },
+    {
+      "date": 13696,
+      "event_close": 13.890201568603516,
+      "k": 0.25,
+      "prev_close": 29.836870193481445,
+      "ticker": "JCI"
+    },
+    {
+      "date": 13745,
+      "event_close": 9230.76953125,
+      "k": 0.0008333333333333334,
+      "prev_close": null,
+      "ticker": "GFMH"
+    },
+    {
+      "date": 13796,
+      "event_close": 18.299999237060547,
+      "k": 2.0,
+      "prev_close": 12.949999809265137,
+      "ticker": "SPOWF"
+    },
+    {
+      "date": 13801,
+      "event_close": 1.5,
+      "k": 0.0025,
+      "prev_close": 3.5999999046325684,
+      "ticker": "TGGI"
+    },
+    {
+      "date": 13903,
+      "event_close": 1.0,
+      "k": 0.01,
+      "prev_close": null,
+      "ticker": "PGID"
+    },
+    {
+      "date": 13942,
+      "event_close": 192.00001525878906,
+      "k": 10.0,
+      "prev_close": 127.50001525878906,
+      "ticker": "CLIS"
+    },
+    {
+      "date": 14076,
+      "event_close": 0.6000000238418579,
+      "k": 0.1,
+      "prev_close": 0.20000000298023224,
+      "ticker": "BEGI"
+    },
+    {
+      "date": 14133,
+      "event_close": 160.0,
+      "k": 0.05,
+      "prev_close": 348.0,
+      "ticker": "OMQS"
+    },
+    {
+      "date": 14169,
+      "event_close": 350.0,
+      "k": 0.0004,
+      "prev_close": 2500.0,
+      "ticker": "CONC"
+    },
+    {
+      "date": 14176,
+      "event_close": 7.5,
+      "k": 0.1,
+      "prev_close": 3.799999952316284,
+      "ticker": "SCKT"
+    },
+    {
+      "date": 14203,
+      "event_close": 750.0018920898438,
+      "k": 0.0014925373134328358,
+      "prev_close": 100502.515625,
+      "ticker": "RCRT"
+    },
+    {
+      "date": 14231,
+      "event_close": 0.38999998569488525,
+      "k": 3.0,
+      "prev_close": 0.03666599839925766,
+      "ticker": "NHMD"
+    },
+    {
+      "date": 14301,
+      "event_close": 100.0,
+      "k": 0.041666666666666664,
+      "prev_close": 2380.952392578125,
+      "ticker": "KATX"
+    },
+    {
+      "date": 14342,
+      "event_close": 20000.0,
+      "k": 0.0033333333333333335,
+      "prev_close": null,
+      "ticker": "COWI"
+    },
+    {
+      "date": 14383,
+      "event_close": 220.0,
+      "k": 10.0,
+      "prev_close": 120.0,
+      "ticker": "TKLS"
+    },
+    {
+      "date": 14404,
+      "event_close": 798.4000244140625,
+      "k": 1.05,
+      "prev_close": 571.4285888671875,
+      "ticker": "OPHC"
+    },
+    {
+      "date": 14448,
+      "event_close": 36562.5,
+      "k": 0.16666666666666666,
+      "prev_close": 219375.0,
+      "ticker": "CUEN"
+    },
+    {
+      "date": 14529,
+      "event_close": 128.0,
+      "k": 0.5,
+      "prev_close": null,
+      "ticker": "IVDA"
+    },
+    {
+      "date": 14676,
+      "event_close": 231.00022888183594,
+      "k": 50.0,
+      "prev_close": 4.620004177093506,
+      "ticker": "IMII"
+    },
+    {
+      "date": 14761,
+      "event_close": 397312.5,
+      "k": 0.3333333333333333,
+      "prev_close": 1191937.5,
+      "ticker": "CUEN"
+    },
+    {
+      "date": 14874,
+      "event_close": 524.7376098632812,
+      "k": 0.0001,
+      "prev_close": 1499.2503662109375,
+      "ticker": "KGKG"
+    },
+    {
+      "date": 14879,
+      "event_close": 0.07999999821186066,
+      "k": 10.0,
+      "prev_close": 0.011099999770522118,
+      "ticker": "COUV"
+    },
+    {
+      "date": 14883,
+      "event_close": 0.20000000298023224,
+      "k": 0.0003333333333333333,
+      "prev_close": 599.8800048828125,
+      "ticker": "ECPL"
+    },
+    {
+      "date": 14897,
+      "event_close": 21875000.0,
+      "k": 0.004,
+      "prev_close": 14000000.0,
+      "ticker": "FZRO"
+    },
+    {
+      "date": 14908,
+      "event_close": 7800000.0,
+      "k": 16.0,
+      "prev_close": 487500.0,
+      "ticker": "CUEN"
+    },
+    {
+      "date": 14970,
+      "event_close": 480000000.0,
+      "k": 0.08333333333333333,
+      "prev_close": 963855.4375,
+      "ticker": "BRGO"
+    },
+    {
+      "date": 15023,
+      "event_close": 10031.8466796875,
+      "k": 0.2,
+      "prev_close": 50159.234375,
+      "ticker": "ABVC"
+    },
+    {
+      "date": 15047,
+      "event_close": 11249.4287109375,
+      "k": 2.0,
+      "prev_close": 6749.6650390625,
+      "ticker": "PHOT"
+    },
+    {
+      "date": 15084,
+      "event_close": 10000.0,
+      "k": 0.005,
+      "prev_close": 6000.0,
+      "ticker": "QLIS"
+    },
+    {
+      "date": 15096,
+      "event_close": 570.0056762695312,
+      "k": 3.0,
+      "prev_close": 270.002685546875,
+      "ticker": "BIXT"
+    },
+    {
+      "date": 15131,
+      "event_close": 12938.7939453125,
+      "k": 0.025,
+      "prev_close": 6840.68408203125,
+      "ticker": "DLOC"
+    },
+    {
+      "date": 15134,
+      "event_close": -1.5242853164672852,
+      "k": 0.8,
+      "prev_close": -1.536101222038269,
+      "ticker": "AIV"
+    },
+    {
+      "date": 15145,
+      "event_close": 12.5,
+      "k": 0.05,
+      "prev_close": 3.5,
+      "ticker": "WTII"
+    },
+    {
+      "date": 15154,
+      "event_close": 0.00009999999747378752,
+      "k": 0.0005,
+      "prev_close": 0.20000000298023224,
+      "ticker": "ECPL"
+    },
+    {
+      "date": 15342,
+      "event_close": 36.208030700683594,
+      "k": 0.2,
+      "prev_close": 26.333114624023438,
+      "ticker": "KZIA"
+    },
+    {
+      "date": 15352,
+      "event_close": 0.03333299979567528,
+      "k": 0.05,
+      "prev_close": 0.6666669845581055,
+      "ticker": "LINK"
+    },
+    {
+      "date": 15372,
+      "event_close": 1.600000023841858,
+      "k": 0.16666666666666666,
+      "prev_close": 0.8999980092048645,
+      "ticker": "SRGZ"
+    },
+    {
+      "date": 15394,
+      "event_close": 1.25,
+      "k": 10.0,
+      "prev_close": 0.10499999672174454,
+      "ticker": "PTOP"
+    },
+    {
+      "date": 15407,
+      "event_close": 0.006000000052154064,
+      "k": 0.1,
+      "prev_close": 0.05999999865889549,
+      "ticker": "AVCRF"
+    },
+    {
+      "date": 15434,
+      "event_close": 0.7300000190734863,
+      "k": 0.25,
+      "prev_close": 2.9200000762939453,
+      "ticker": "FCHS"
+    },
+    {
+      "date": 15449,
+      "event_close": 176.0,
+      "k": 24.0,
+      "prev_close": null,
+      "ticker": "RYES"
+    },
+    {
+      "date": 15457,
+      "event_close": 81.0,
+      "k": 0.02857142857142857,
+      "prev_close": 1.7999999523162842,
+      "ticker": "CRTG"
+    },
+    {
+      "date": 15464,
+      "event_close": 10.972280502319336,
+      "k": 0.2,
+      "prev_close": 17.55565071105957,
+      "ticker": "CFBK"
+    },
+    {
+      "date": 15485,
+      "event_close": 1921920.0,
+      "k": 0.5,
+      "prev_close": 3843840.0,
+      "ticker": "SONN"
+    },
+    {
+      "date": 15489,
+      "event_close": 0.07999999821186066,
+      "k": 0.2,
+      "prev_close": 0.4000000059604645,
+      "ticker": "UMEWF"
+    },
+    {
+      "date": 15554,
+      "event_close": 120.0,
+      "k": 0.025,
+      "prev_close": 192.0,
+      "ticker": "IZEA"
+    },
+    {
+      "date": 15581,
+      "event_close": 1.3619970083236694,
+      "k": 0.06666666666666667,
+      "prev_close": 4.4999680519104,
+      "ticker": "HHHEF"
+    },
+    {
+      "date": 15623,
+      "event_close": 1.0099999904632568,
+      "k": 10.0,
+      "prev_close": 0.12999999523162842,
+      "ticker": "AAGH"
+    },
+    {
+      "date": 15653,
+      "event_close": 45.31999969482422,
+      "k": 0.16666666666666666,
+      "prev_close": 106.61200714111328,
+      "ticker": "VXRT"
+    },
+    {
+      "date": 15653,
+      "event_close": 0.15000000596046448,
+      "k": 0.5,
+      "prev_close": 0.4000000059604645,
+      "ticker": "ERDCF"
+    },
+    {
+      "date": 15671,
+      "event_close": 6.239999771118164,
+      "k": 0.001,
+      "prev_close": 6240.0,
+      "ticker": "BTTR"
+    },
+    {
+      "date": 15671,
+      "event_close": 0.550000011920929,
+      "k": 0.3333333333333333,
+      "prev_close": 1.649999976158142,
+      "ticker": "SUND"
+    },
+    {
+      "date": 15688,
+      "event_close": 3.990000009536743,
+      "k": 0.25,
+      "prev_close": 2.8399999141693115,
+      "ticker": "BOSC"
+    },
+    {
+      "date": 15693,
+      "event_close": 15.350000381469727,
+      "k": 0.2,
+      "prev_close": 10.5,
+      "ticker": "DYNT"
+    },
+    {
+      "date": 15695,
+      "event_close": 0.5,
+      "k": 2.0,
+      "prev_close": 0.0625,
+      "ticker": "SITS"
+    },
+    {
+      "date": 15700,
+      "event_close": -1053.2117919921875,
+      "k": 100.0,
+      "prev_close": -1053.2117919921875,
+      "ticker": "OSCUF"
+    },
+    {
+      "date": 15705,
+      "event_close": 1.2000000476837158,
+      "k": 0.025,
+      "prev_close": 48.0,
+      "ticker": "CNNA"
+    },
+    {
+      "date": 15727,
+      "event_close": 0.02199999988079071,
+      "k": 0.01,
+      "prev_close": 2.200000047683716,
+      "ticker": "CHUC"
+    },
+    {
+      "date": 15730,
+      "event_close": 600.6005859375,
+      "k": 0.01,
+      "prev_close": 60606.0625,
+      "ticker": "ELRA"
+    },
+    {
+      "date": 15744,
+      "event_close": 4.949999809265137,
+      "k": 0.2,
+      "prev_close": 8.0,
+      "ticker": "HROW"
+    },
+    {
+      "date": 15800,
+      "event_close": 0.6578109860420227,
+      "k": 0.125,
+      "prev_close": 5.262495040893555,
+      "ticker": "JPOTF"
+    },
+    {
+      "date": 15806,
+      "event_close": 4.573853492736816,
+      "k": 1.6,
+      "prev_close": 2.8586583137512207,
+      "ticker": "OUKPY"
+    },
+    {
+      "date": 15825,
+      "event_close": 6.25,
+      "k": 0.02,
+      "prev_close": 312.5,
+      "ticker": "DIGAF"
+    },
+    {
+      "date": 15915,
+      "event_close": 4.800000190734863,
+      "k": 0.002577319587628866,
+      "prev_close": 2.6383988857269287,
+      "ticker": "ARPC"
+    },
+    {
+      "date": 15919,
+      "event_close": 51.0,
+      "k": 0.0005,
+      "prev_close": 200.0,
+      "ticker": "MDCE"
+    },
+    {
+      "date": 15924,
+      "event_close": 5.849999904632568,
+      "k": 1.641,
+      "prev_close": 3.9000608921051025,
+      "ticker": "LGL"
+    },
+    {
+      "date": 15974,
+      "event_close": -4.836446285247803,
+      "k": 5.0,
+      "prev_close": -22.93300437927246,
+      "ticker": "OSCUF"
+    },
+    {
+      "date": 15980,
+      "event_close": 62.5,
+      "k": 0.01,
+      "prev_close": 125.0,
+      "ticker": "PNPL"
+    },
+    {
+      "date": 16073,
+      "event_close": 0.00989999994635582,
+      "k": 0.005,
+      "prev_close": 0.019999999552965164,
+      "ticker": "COWI"
+    },
+    {
+      "date": 16079,
+      "event_close": 7.352311134338379,
+      "k": 2.0,
+      "prev_close": 1.7737452983856201,
+      "ticker": "IDKOY"
+    },
+    {
+      "date": 16086,
+      "event_close": 2248875.5,
+      "k": 0.004,
+      "prev_close": 666666.6875,
+      "ticker": "CBDL"
+    },
+    {
+      "date": 16113,
+      "event_close": 47.279998779296875,
+      "k": 3.0,
+      "prev_close": 34.58000183105469,
+      "ticker": "LIVE"
+    },
+    {
+      "date": 16127,
+      "event_close": 0.10000000149011612,
+      "k": 0.1,
+      "prev_close": 1.0,
+      "ticker": "GLUC"
+    },
+    {
+      "date": 16210,
+      "event_close": 60.0,
+      "k": 14.0,
+      "prev_close": 36.42856979370117,
+      "ticker": "BLPG"
+    },
+    {
+      "date": 16244,
+      "event_close": 0.029999999329447746,
+      "k": 0.004,
+      "prev_close": 7.5,
+      "ticker": "SCGX"
+    },
+    {
+      "date": 16251,
+      "event_close": 57.599998474121094,
+      "k": 2.0,
+      "prev_close": 41.400001525878906,
+      "ticker": "CNBX"
+    },
+    {
+      "date": 16287,
+      "event_close": 0.20000000298023224,
+      "k": 0.02,
+      "prev_close": 0.125,
+      "ticker": "SITS"
+    },
+    {
+      "date": 16289,
+      "event_close": 0.8333330154418945,
+      "k": 0.01,
+      "prev_close": 0.5249999761581421,
+      "ticker": "PNPL"
+    },
+    {
+      "date": 16301,
+      "event_close": 0.01549999974668026,
+      "k": 0.01,
+      "prev_close": 1.5499999523162842,
+      "ticker": "GSTX"
+    },
+    {
+      "date": 16321,
+      "event_close": 13.333333015441895,
+      "k": 0.002,
+      "prev_close": null,
+      "ticker": "PETV"
+    },
+    {
+      "date": 16325,
+      "event_close": 74962520.0,
+      "k": 0.00004,
+      "prev_close": 7490.63671875,
+      "ticker": "CDIX"
+    },
+    {
+      "date": 16346,
+      "event_close": 2500000.0,
+      "k": 0.0002,
+      "prev_close": 50000.0,
+      "ticker": "GTCH"
+    },
+    {
+      "date": 16357,
+      "event_close": 100000.0,
+      "k": 0.001,
+      "prev_close": 500000.0,
+      "ticker": "BRGO"
+    },
+    {
+      "date": 16380,
+      "event_close": 25.190000534057617,
+      "k": 0.041666666666666664,
+      "prev_close": null,
+      "ticker": "NVRO"
+    },
+    {
+      "date": 16391,
+      "event_close": 0.0820000022649765,
+      "k": 0.02,
+      "prev_close": 0.25,
+      "ticker": "GLUC"
+    },
+    {
+      "date": 16393,
+      "event_close": 0.019999999552965164,
+      "k": 0.1,
+      "prev_close": 0.20000000298023224,
+      "ticker": "BMMJ"
+    },
+    {
+      "date": 16437,
+      "event_close": 70.4000015258789,
+      "k": 0.25,
+      "prev_close": null,
+      "ticker": "QRVO"
+    },
+    {
+      "date": 16475,
+      "event_close": 12.5,
+      "k": 0.0125,
+      "prev_close": 8.0,
+      "ticker": "RYES"
+    },
+    {
+      "date": 16513,
+      "event_close": 0.3154999911785126,
+      "k": 0.05,
+      "prev_close": 6.309999942779541,
+      "ticker": "LOGQ"
+    },
+    {
+      "date": 16514,
+      "event_close": 84.0,
+      "k": 0.25,
+      "prev_close": 336.0,
+      "ticker": "VBIX"
+    },
+    {
+      "date": 16519,
+      "event_close": 18.0,
+      "k": 0.00125,
+      "prev_close": 12.0,
+      "ticker": "BOTY"
+    },
+    {
+      "date": 16521,
+      "event_close": -1.5040686207612453e-7,
+      "k": 4.0,
+      "prev_close": 3.760171551903113e-8,
+      "ticker": "OLCLF"
+    },
+    {
+      "date": 16561,
+      "event_close": 0.00009999999747378752,
+      "k": 0.00125,
+      "prev_close": 0.07999999821186066,
+      "ticker": "BRZL"
+    },
+    {
+      "date": 16570,
+      "event_close": 13.148305892944336,
+      "k": 1.3804,
+      "prev_close": 9.3060302734375,
+      "ticker": "KRNY"
+    },
+    {
+      "date": 16573,
+      "event_close": 12.842616081237793,
+      "k": 0.5,
+      "prev_close": null,
+      "ticker": "APLE"
+    },
+    {
+      "date": 16573,
+      "event_close": 0.11999999731779099,
+      "k": 0.01,
+      "prev_close": 1.0,
+      "ticker": "ELRA"
+    },
+    {
+      "date": 16616,
+      "event_close": 0.4000000059604645,
+      "k": 0.5,
+      "prev_close": 0.800000011920929,
+      "ticker": "ITOX"
+    },
+    {
+      "date": 16618,
+      "event_close": 10.0,
+      "k": 0.5,
+      "prev_close": 25.0,
+      "ticker": "CIIT"
+    },
+    {
+      "date": 16622,
+      "event_close": 39.0,
+      "k": 0.002,
+      "prev_close": 3900.0,
+      "ticker": "CUEN"
+    },
+    {
+      "date": 16623,
+      "event_close": 1.0099999904632568,
+      "k": 0.1,
+      "prev_close": 10.100000381469727,
+      "ticker": "SCGX"
+    },
+    {
+      "date": 16633,
+      "event_close": 0.029999999329447746,
+      "k": 0.001,
+      "prev_close": 0.10000000149011612,
+      "ticker": "DBMM"
+    },
+    {
+      "date": 16638,
+      "event_close": 6500000.0,
+      "k": 0.0007692307692307692,
+      "prev_close": 250000.0,
+      "ticker": "RAKR"
+    },
+    {
+      "date": 16651,
+      "event_close": 1.0161818265914917,
+      "k": 0.1,
+      "prev_close": 1.7507251501083374,
+      "ticker": "AMPY"
+    },
+    {
+      "date": 16654,
+      "event_close": 2.0399999618530273,
+      "k": 2.0,
+      "prev_close": 1.312000036239624,
+      "ticker": "QBIO"
+    },
+    {
+      "date": 16660,
+      "event_close": 0.00009999999747378752,
+      "k": 0.0006666666666666666,
+      "prev_close": 0.014991999603807926,
+      "ticker": "KGKG"
+    },
+    {
+      "date": 16660,
+      "event_close": 0.34394899010658264,
+      "k": 0.0002,
+      "prev_close": 1719.7452392578125,
+      "ticker": "ABVC"
+    },
+    {
+      "date": 16706,
+      "event_close": -6.4498209953308105,
+      "k": 2.0,
+      "prev_close": -6.29472541809082,
+      "ticker": "OSCUF"
+    },
+    {
+      "date": 16723,
+      "event_close": 33750.0,
+      "k": 0.0005,
+      "prev_close": 67500000.0,
+      "ticker": "GMGI"
+    },
+    {
+      "date": 16742,
+      "event_close": 13749999616.0,
+      "k": 0.1,
+      "prev_close": 1080333.0,
+      "ticker": "RNVA"
+    },
+    {
+      "date": 16743,
+      "event_close": 4.989999771118164,
+      "k": 0.001,
+      "prev_close": 2.8499999046325684,
+      "ticker": "USRM"
+    },
+    {
+      "date": 16763,
+      "event_close": 0.006000000052154064,
+      "k": 0.01,
+      "prev_close": 0.009999999776482582,
+      "ticker": "ELRA"
+    },
+    {
+      "date": 16770,
+      "event_close": 13.5,
+      "k": 0.3333333333333333,
+      "prev_close": 40.500038146972656,
+      "ticker": "BSPK"
+    },
+    {
+      "date": 16780,
+      "event_close": 187.0,
+      "k": 0.1,
+      "prev_close": 128.0,
+      "ticker": "WKHS"
+    },
+    {
+      "date": 16785,
+      "event_close": 2.6600000858306885,
+      "k": 0.2,
+      "prev_close": 0.46000000834465027,
+      "ticker": "GIGM"
+    },
+    {
+      "date": 16790,
+      "event_close": 4397.75,
+      "k": 0.04,
+      "prev_close": 3062.5,
+      "ticker": "NBY"
+    },
+    {
+      "date": 16807,
+      "event_close": 0.007799999788403511,
+      "k": 0.06666666666666667,
+      "prev_close": 0.0029990000184625387,
+      "ticker": "LFAP"
+    },
+    {
+      "date": 16820,
+      "event_close": 75.0,
+      "k": 0.009900990099009901,
+      "prev_close": 50.5,
+      "ticker": "MITI"
+    },
+    {
+      "date": 16822,
+      "event_close": 6.010000228881836,
+      "k": 0.0008,
+      "prev_close": 11.25,
+      "ticker": "ISGN"
+    },
+    {
+      "date": 16861,
+      "event_close": 150.0,
+      "k": 0.0005,
+      "prev_close": 5000.0,
+      "ticker": "RAKR"
+    },
+    {
+      "date": 16891,
+      "event_close": 2.407792329788208,
+      "k": 0.125,
+      "prev_close": null,
+      "ticker": "RIOT"
+    },
+    {
+      "date": 16898,
+      "event_close": 22.5,
+      "k": 0.0006666666666666666,
+      "prev_close": 33750.0,
+      "ticker": "GMGI"
+    },
+    {
+      "date": 16912,
+      "event_close": 22.50225067138672,
+      "k": 0.1,
+      "prev_close": 12.376236915588379,
+      "ticker": "DLOC"
+    },
+    {
+      "date": 16954,
+      "event_close": 0.20000000298023224,
+      "k": 0.00005,
+      "prev_close": 2.0,
+      "ticker": "HCMC"
+    },
+    {
+      "date": 16965,
+      "event_close": 60802.59375,
+      "k": 0.0006666666666666666,
+      "prev_close": 500000.0,
+      "ticker": "VISM"
+    },
+    {
+      "date": 16987,
+      "event_close": 69.05990600585938,
+      "k": 1.319,
+      "prev_close": 42.836238861083984,
+      "ticker": "DHR"
+    },
+    {
+      "date": 17072,
+      "event_close": -235.5867919921875,
+      "k": 0.2,
+      "prev_close": 1105.514404296875,
+      "ticker": "EBCOF"
+    },
+    {
+      "date": 17175,
+      "event_close": 0.75,
+      "k": 0.006666666666666667,
+      "prev_close": 22.5,
+      "ticker": "GMGI"
+    },
+    {
+      "date": 17198,
+      "event_close": 0.004900000058114529,
+      "k": 0.01282051282051282,
+      "prev_close": 0.007799000013619661,
+      "ticker": "MRNJ"
+    },
+    {
+      "date": 17262,
+      "event_close": 0.550000011920929,
+      "k": 0.025,
+      "prev_close": 1.0399999618530273,
+      "ticker": "CIIT"
+    },
+    {
+      "date": 17268,
+      "event_close": 442.0,
+      "k": 0.02857142857142857,
+      "prev_close": 301.0045166015625,
+      "ticker": "OCLN"
+    },
+    {
+      "date": 17297,
+      "event_close": 0.3915216028690338,
+      "k": 0.5,
+      "prev_close": 0.21192790567874908,
+      "ticker": "NZEOF"
+    },
+    {
+      "date": 17297,
+      "event_close": 1976400000.0,
+      "k": 0.05,
+      "prev_close": 3888000000.0,
+      "ticker": "TOPS"
+    },
+    {
+      "date": 17311,
+      "event_close": 5.0,
+      "k": 2.0,
+      "prev_close": 3.6907339096069336,
+      "ticker": "CPWR"
+    },
+    {
+      "date": 17316,
+      "event_close": 6076.7998046875,
+      "k": 0.1,
+      "prev_close": 3840.0,
+      "ticker": "YTEN"
+    },
+    {
+      "date": 17331,
+      "event_close": 0.10000000149011612,
+      "k": 0.001,
+      "prev_close": 0.20000000298023224,
+      "ticker": "GMER"
+    },
+    {
+      "date": 17332,
+      "event_close": 135.0,
+      "k": 0.3333333333333333,
+      "prev_close": 90.0,
+      "ticker": "EAST"
+    },
+    {
+      "date": 17340,
+      "event_close": 57600000.0,
+      "k": 0.06666666666666667,
+      "prev_close": 172800000.0,
+      "ticker": "TOPS"
+    },
+    {
+      "date": 17346,
+      "event_close": 0.029999999329447746,
+      "k": 0.0033333333333333335,
+      "prev_close": 0.23999999463558197,
+      "ticker": "CRTG"
+    },
+    {
+      "date": 17372,
+      "event_close": 129200.0,
+      "k": 0.01,
+      "prev_close": 83333.3359375,
+      "ticker": "ASCK"
+    },
+    {
+      "date": 17381,
+      "event_close": 5520000.0,
+      "k": 0.03333333333333333,
+      "prev_close": 17280000.0,
+      "ticker": "TOPS"
+    },
+    {
+      "date": 17402,
+      "event_close": 361.78558349609375,
+      "k": 0.14285714285714285,
+      "prev_close": 572.5650024414062,
+      "ticker": "PSHG"
+    },
+    {
+      "date": 17410,
+      "event_close": 24.23975372314453,
+      "k": 0.1,
+      "prev_close": 0.017899999395012856,
+      "ticker": "EGMCF"
+    },
+    {
+      "date": 17422,
+      "event_close": 0.05000000074505806,
+      "k": 0.125,
+      "prev_close": 0.07999999821186066,
+      "ticker": "GNTOF"
+    },
+    {
+      "date": 17422,
+      "event_close": -119.33744049072266,
+      "k": 2.0,
+      "prev_close": -119.33744049072266,
+      "ticker": "PPERF"
+    },
+    {
+      "date": 17434,
+      "event_close": 77.60037994384766,
+      "k": 0.3333333333333333,
+      "prev_close": 132.13038635253906,
+      "ticker": "PSHG"
+    },
+    {
+      "date": 17438,
+      "event_close": 13.5600004196167,
+      "k": 1.5,
+      "prev_close": 9.060799598693848,
+      "ticker": "FVCB"
+    },
+    {
+      "date": 17441,
+      "event_close": 0.05000000074505806,
+      "k": 0.01,
+      "prev_close": 0.009999999776482582,
+      "ticker": "BTDG"
+    },
+    {
+      "date": 17441,
+      "event_close": 29.688966751098633,
+      "k": 4.377,
+      "prev_close": 17.8247127532959,
+      "ticker": "NC"
+    },
+    {
+      "date": 17444,
+      "event_close": 0.11999999731779099,
+      "k": 0.01,
+      "prev_close": null,
+      "ticker": "FRZT"
+    },
+    {
+      "date": 17445,
+      "event_close": 12999999488.0,
+      "k": 0.06666666666666667,
+      "prev_close": 12781955.0,
+      "ticker": "RNVA"
+    },
+    {
+      "date": 17455,
+      "event_close": 0.5099999904632568,
+      "k": 0.014285714285714285,
+      "prev_close": 0.3499929904937744,
+      "ticker": "ECDD"
+    },
+    {
+      "date": 17471,
+      "event_close": 2.799999952316284,
+      "k": 0.25,
+      "prev_close": 1.2000000476837158,
+      "ticker": "CNGT"
+    },
+    {
+      "date": 17478,
+      "event_close": 13.699999809265137,
+      "k": 0.1,
+      "prev_close": 1.25,
+      "ticker": "SPI"
+    },
+    {
+      "date": 17480,
+      "event_close": 2196000.0,
+      "k": 0.08333333333333333,
+      "prev_close": 186000.0,
+      "ticker": "SINT"
+    },
+    {
+      "date": 17499,
+      "event_close": 1.2000000476837158,
+      "k": 0.16666666666666666,
+      "prev_close": null,
+      "ticker": "NXEN"
+    },
+    {
+      "date": 17570,
+      "event_close": 3772.5,
+      "k": 0.02857142857142857,
+      "prev_close": 112.5,
+      "ticker": "NSPR"
+    },
+    {
+      "date": 17577,
+      "event_close": 0.010999999940395355,
+      "k": 0.001,
+      "prev_close": 0.10000000149011612,
+      "ticker": "CGAC"
+    },
+    {
+      "date": 17582,
+      "event_close": 0.15000000596046448,
+      "k": 0.03333333333333333,
+      "prev_close": 4.5,
+      "ticker": "STCB"
+    },
+    {
+      "date": 17606,
+      "event_close": 0.009999999776482582,
+      "k": 0.05,
+      "prev_close": 0.20000000298023224,
+      "ticker": "GPFT"
+    },
+    {
+      "date": 17660,
+      "event_close": 156.0,
+      "k": 0.3333333333333333,
+      "prev_close": 111.0,
+      "ticker": "NCTY"
+    },
+    {
+      "date": 17661,
+      "event_close": 25999.87890625,
+      "k": 5.0,
+      "prev_close": 5199.9755859375,
+      "ticker": "EFSH"
+    },
+    {
+      "date": 17689,
+      "event_close": 80.0,
+      "k": 0.001,
+      "prev_close": 800.0,
+      "ticker": "ASCK"
+    },
+    {
+      "date": 17702,
+      "event_close": 156000.0,
+      "k": 0.00025,
+      "prev_close": 16666.666015625,
+      "ticker": "TMGI"
+    },
+    {
+      "date": 17715,
+      "event_close": 0.014999999664723873,
+      "k": 0.005,
+      "prev_close": 3.0,
+      "ticker": "QUBT"
+    },
+    {
+      "date": 17739,
+      "event_close": 0.5400000214576721,
+      "k": 0.034482758620689655,
+      "prev_close": 0.05000000074505806,
+      "ticker": "MRZM"
+    },
+    {
+      "date": 17819,
+      "event_close": 650.0,
+      "k": 0.1,
+      "prev_close": 430.0,
+      "ticker": "GLBS"
+    },
+    {
+      "date": 17834,
+      "event_close": 0.15000000596046448,
+      "k": 0.05,
+      "prev_close": 0.04800000041723251,
+      "ticker": "DPWW"
+    },
+    {
+      "date": 17848,
+      "event_close": 240000.0,
+      "k": 0.002,
+      "prev_close": 500000.0,
+      "ticker": "RNVA"
+    },
+    {
+      "date": 17868,
+      "event_close": 4.961999893188477,
+      "k": 0.0012315270935960591,
+      "prev_close": null,
+      "ticker": "CRLBF"
+    },
+    {
+      "date": 17900,
+      "event_close": 0.10000000149011612,
+      "k": 0.02,
+      "prev_close": 0.75,
+      "ticker": "SKVI"
+    },
+    {
+      "date": 17905,
+      "event_close": 1.0,
+      "k": 0.02,
+      "prev_close": 0.3499999940395355,
+      "ticker": "FAVO"
+    },
+    {
+      "date": 17920,
+      "event_close": 15168.0,
+      "k": 0.03333333333333333,
+      "prev_close": 25344.0,
+      "ticker": "SEEL"
+    },
+    {
+      "date": 17932,
+      "event_close": 24.93899917602539,
+      "k": 0.01,
+      "prev_close": 6.000006198883057,
+      "ticker": "CBDL"
+    },
+    {
+      "date": 17973,
+      "event_close": 2160.0,
+      "k": 0.038461538461538464,
+      "prev_close": 1060.800048828125,
+      "ticker": "BTTR"
+    },
+    {
+      "date": 17980,
+      "event_close": 84615384.0,
+      "k": 0.0006666666666666666,
+      "prev_close": 1499.2503662109375,
+      "ticker": "CDIX"
+    },
+    {
+      "date": 17982,
+      "event_close": -15.324697494506836,
+      "k": 3.0,
+      "prev_close": 86.00596618652344,
+      "ticker": "MRAAF"
+    },
+    {
+      "date": 17984,
+      "event_close": 75200.0,
+      "k": 0.00016666666666666666,
+      "prev_close": 23809.5234375,
+      "ticker": "FLES"
+    },
+    {
+      "date": 18024,
+      "event_close": 12.5,
+      "k": 0.05555555555555555,
+      "prev_close": 225.0,
+      "ticker": "ABVC"
+    },
+    {
+      "date": 18026,
+      "event_close": 2.75,
+      "k": 0.01,
+      "prev_close": 5.0,
+      "ticker": "SMTI"
+    },
+    {
+      "date": 18064,
+      "event_close": 10.0,
+      "k": 0.02,
+      "prev_close": 5.5,
+      "ticker": "ABQQ"
+    },
+    {
+      "date": 18071,
+      "event_close": 0.01209999993443489,
+      "k": 0.05,
+      "prev_close": 0.03799999877810478,
+      "ticker": "TNRG"
+    },
+    {
+      "date": 18071,
+      "event_close": 1000.0,
+      "k": 0.002,
+      "prev_close": 3400.0,
+      "ticker": "PPCB"
+    },
+    {
+      "date": 18094,
+      "event_close": 19.0,
+      "k": 0.010526315789473684,
+      "prev_close": 4.84499979019165,
+      "ticker": "LAAB"
+    },
+    {
+      "date": 18095,
+      "event_close": 2.0,
+      "k": 10.0,
+      "prev_close": 0.699999988079071,
+      "ticker": "SNTW"
+    },
+    {
+      "date": 18095,
+      "event_close": 9.800000190734863,
+      "k": 0.16666666666666666,
+      "prev_close": 7.019985198974609,
+      "ticker": "EMMA"
+    },
+    {
+      "date": 18109,
+      "event_close": 12.199999809265137,
+      "k": 0.0008333333333333334,
+      "prev_close": 4.800000190734863,
+      "ticker": "RCAT"
+    },
+    {
+      "date": 18121,
+      "event_close": 10.0,
+      "k": 0.0002,
+      "prev_close": 50.0,
+      "ticker": "RDAR"
+    },
+    {
+      "date": 18129,
+      "event_close": 0.5299999713897705,
+      "k": 0.005,
+      "prev_close": 106.0,
+      "ticker": "GLAE"
+    },
+    {
+      "date": 18142,
+      "event_close": 14.943082809448242,
+      "k": 0.3333333333333333,
+      "prev_close": 41.60765838623047,
+      "ticker": "CMCT"
+    },
+    {
+      "date": 18143,
+      "event_close": 15.100000381469727,
+      "k": 0.0025,
+      "prev_close": 40.0,
+      "ticker": "TMGI"
+    },
+    {
+      "date": 18166,
+      "event_close": 60.0,
+      "k": 0.0001,
+      "prev_close": 500.0,
+      "ticker": "BRGO"
+    },
+    {
+      "date": 18169,
+      "event_close": 2.8499999046325684,
+      "k": 0.016666666666666666,
+      "prev_close": 9.720000267028809,
+      "ticker": "OCGN"
+    },
+    {
+      "date": 18204,
+      "event_close": 0.30000001192092896,
+      "k": 0.1,
+      "prev_close": 0.03999999910593033,
+      "ticker": "IPSI"
+    },
+    {
+      "date": 18253,
+      "event_close": 300.0,
+      "k": 0.14285714285714285,
+      "prev_close": 206.5,
+      "ticker": "PCSA"
+    },
+    {
+      "date": 18257,
+      "event_close": -6.577476978302002,
+      "k": 2.0,
+      "prev_close": -13.253161430358887,
+      "ticker": "NPPXF"
+    },
+    {
+      "date": 18257,
+      "event_close": 41.939998626708984,
+      "k": 0.2,
+      "prev_close": 9.720000267028809,
+      "ticker": "RCON"
+    },
+    {
+      "date": 18267,
+      "event_close": 20.479999542236328,
+      "k": 4.0,
+      "prev_close": 1.2799999713897705,
+      "ticker": "PFHO"
+    },
+    {
+      "date": 18271,
+      "event_close": 0.02800000086426735,
+      "k": 10.0,
+      "prev_close": 0.017999999225139618,
+      "ticker": "BZRD"
+    },
+    {
+      "date": 18302,
+      "event_close": 0.550000011920929,
+      "k": 0.001,
+      "prev_close": 0.20000000298023224,
+      "ticker": "OZSC"
+    },
+    {
+      "date": 18304,
+      "event_close": 2.0,
+      "k": 0.02,
+      "prev_close": 0.019999999552965164,
+      "ticker": "EWLL"
+    },
+    {
+      "date": 18317,
+      "event_close": 1.0499999523162842,
+      "k": 0.00025,
+      "prev_close": 4.0,
+      "ticker": "FLES"
+    },
+    {
+      "date": 18340,
+      "event_close": 8.760000228881836,
+      "k": 0.1111111111111111,
+      "prev_close": 0.8899999856948853,
+      "ticker": "LUMO"
+    },
+    {
+      "date": 18341,
+      "event_close": 0.07999999821186066,
+      "k": 0.02,
+      "prev_close": 4.0,
+      "ticker": "INLX"
+    },
+    {
+      "date": 18348,
+      "event_close": 0.30000001192092896,
+      "k": 0.0001,
+      "prev_close": 1.0,
+      "ticker": "AITX"
+    },
+    {
+      "date": 18365,
+      "event_close": 247.5,
+      "k": 0.002,
+      "prev_close": 162.5,
+      "ticker": "PACV"
+    },
+    {
+      "date": 18373,
+      "event_close": 3.6424999237060547,
+      "k": 0.04,
+      "prev_close": 8.4375,
+      "ticker": "UCO"
+    },
+    {
+      "date": 18381,
+      "event_close": 2970.0,
+      "k": 0.3333333333333333,
+      "prev_close": 8910.0,
+      "ticker": "WINT"
+    },
+    {
+      "date": 18394,
+      "event_close": 11250.0283203125,
+      "k": 0.0001,
+      "prev_close": 76923.078125,
+      "ticker": "CDIX"
+    },
+    {
+      "date": 18401,
+      "event_close": 2.144443988800049,
+      "k": 0.5,
+      "prev_close": 1.5622220039367676,
+      "ticker": "MFH"
+    },
+    {
+      "date": 18408,
+      "event_close": 78.0,
+      "k": 0.04,
+      "prev_close": null,
+      "ticker": "QLGN"
+    },
+    {
+      "date": 18411,
+      "event_close": 12.300000190734863,
+      "k": 0.08333333333333333,
+      "prev_close": 0.9900000095367432,
+      "ticker": "LRMR"
+    },
+    {
+      "date": 18425,
+      "event_close": 16.020000457763672,
+      "k": 0.5,
+      "prev_close": 10.319999694824219,
+      "ticker": "VTOL"
+    },
+    {
+      "date": 18431,
+      "event_close": 3.9000000953674316,
+      "k": 0.02,
+      "prev_close": 6.25,
+      "ticker": "VRME"
+    },
+    {
+      "date": 18466,
+      "event_close": 19.190000534057617,
+      "k": 0.01,
+      "prev_close": 0.03999999910593033,
+      "ticker": "GFOO"
+    },
+    {
+      "date": 18473,
+      "event_close": 88.0,
+      "k": 0.16666666666666666,
+      "prev_close": 20.399999618530273,
+      "ticker": "TAOP"
+    },
+    {
+      "date": 18474,
+      "event_close": 6.989999771118164,
+      "k": 2.0,
+      "prev_close": 4.949979782104492,
+      "ticker": "TLSA"
+    },
+    {
+      "date": 18477,
+      "event_close": 14400000.0,
+      "k": 0.0001,
+      "prev_close": 2000.0,
+      "ticker": "RNVA"
+    },
+    {
+      "date": 18500,
+      "event_close": 1.0,
+      "k": 0.001,
+      "prev_close": 0.6000000238418579,
+      "ticker": "XSNX"
+    },
+    {
+      "date": 18514,
+      "event_close": 105.0,
+      "k": 0.0025,
+      "prev_close": 0.30000001192092896,
+      "ticker": "MOBQ"
+    },
+    {
+      "date": 18521,
+      "event_close": 0.17000000178813934,
+      "k": 0.0001,
+      "prev_close": 1.0,
+      "ticker": "GXXM"
+    },
+    {
+      "date": 18530,
+      "event_close": 44.099998474121094,
+      "k": 0.05,
+      "prev_close": null,
+      "ticker": "GOVX"
+    },
+    {
+      "date": 18534,
+      "event_close": -19.744150161743164,
+      "k": 0.1,
+      "prev_close": -19.24940299987793,
+      "ticker": "MZHOF"
+    },
+    {
+      "date": 18547,
+      "event_close": 1.940000057220459,
+      "k": 0.675,
+      "prev_close": 3.6296300888061523,
+      "ticker": "FURY"
+    },
+    {
+      "date": 18557,
+      "event_close": 90.44999694824219,
+      "k": 0.25,
+      "prev_close": 45.599998474121094,
+      "ticker": "TC"
+    },
+    {
+      "date": 18558,
+      "event_close": 3.0,
+      "k": 5.0,
+      "prev_close": 0.27000001072883606,
+      "ticker": "BWMY"
+    },
+    {
+      "date": 18563,
+      "event_close": 1.7000000476837158,
+      "k": 0.25,
+      "prev_close": 6.800000190734863,
+      "ticker": "AIXN"
+    },
+    {
+      "date": 18572,
+      "event_close": 6.0,
+      "k": 0.25,
+      "prev_close": null,
+      "ticker": "OCUP"
+    },
+    {
+      "date": 18585,
+      "event_close": 0.9700000286102295,
+      "k": 0.001,
+      "prev_close": 1.899999976158142,
+      "ticker": "PPCB"
+    },
+    {
+      "date": 18597,
+      "event_close": 11.365428924560547,
+      "k": 0.25,
+      "prev_close": 42.768863677978516,
+      "ticker": "WFCF"
+    },
+    {
+      "date": 18603,
+      "event_close": 2.9205589294433594,
+      "k": 0.25,
+      "prev_close": 11.682235717773438,
+      "ticker": "WFCF"
+    },
+    {
+      "date": 18605,
+      "event_close": 4.199999809265137,
+      "k": 0.01,
+      "prev_close": 9.0,
+      "ticker": "CYTH"
+    },
+    {
+      "date": 18611,
+      "event_close": 0.20000000298023224,
+      "k": 4.0,
+      "prev_close": 0.125,
+      "ticker": "ELVG"
+    },
+    {
+      "date": 18626,
+      "event_close": 0.26499998569488525,
+      "k": 0.01,
+      "prev_close": 0.18000000715255737,
+      "ticker": "SRCO"
+    },
+    {
+      "date": 18633,
+      "event_close": 15.0,
+      "k": 0.16666666666666666,
+      "prev_close": 1.0,
+      "ticker": "UGRO"
+    },
+    {
+      "date": 18655,
+      "event_close": 1.0099999904632568,
+      "k": 0.011764705882352941,
+      "prev_close": 1.8274539709091187,
+      "ticker": "FLCX"
+    },
+    {
+      "date": 18667,
+      "event_close": 1484.0999755859375,
+      "k": 0.011764705882352941,
+      "prev_close": null,
+      "ticker": "RELI"
+    },
+    {
+      "date": 18669,
+      "event_close": 155.39999389648438,
+      "k": 0.058823529411764705,
+      "prev_close": 255.0,
+      "ticker": "GTBP"
+    },
+    {
+      "date": 18675,
+      "event_close": 7680.0,
+      "k": 0.06666666666666667,
+      "prev_close": 19620.0,
+      "ticker": "VINO"
+    },
+    {
+      "date": 18675,
+      "event_close": 6.610000133514404,
+      "k": 0.05,
+      "prev_close": 18.0,
+      "ticker": "AMPG"
+    },
+    {
+      "date": 18680,
+      "event_close": 0.18700000643730164,
+      "k": 0.025,
+      "prev_close": 0.36000001430511475,
+      "ticker": "ASCK"
+    },
+    {
+      "date": 18689,
+      "event_close": 22.899999618530273,
+      "k": 0.05,
+      "prev_close": null,
+      "ticker": "FORA"
+    },
+    {
+      "date": 18709,
+      "event_close": 2.9000000953674316,
+      "k": 0.00014285714285714287,
+      "prev_close": 6.993006229400635,
+      "ticker": "SAML"
+    },
+    {
+      "date": 18754,
+      "event_close": 3.145994186401367,
+      "k": 0.2,
+      "prev_close": 15.729970932006836,
+      "ticker": "FXBY"
+    },
+    {
+      "date": 18761,
+      "event_close": 5.480000019073486,
+      "k": 0.025,
+      "prev_close": 0.20000000298023224,
+      "ticker": "DTST"
+    },
+    {
+      "date": 18775,
+      "event_close": 25.139999389648438,
+      "k": 0.0125,
+      "prev_close": 0.7200000286102295,
+      "ticker": "ZIVO"
+    },
+    {
+      "date": 18794,
+      "event_close": 0.33009999990463257,
+      "k": 0.01,
+      "prev_close": 0.003800000064074993,
+      "ticker": "CHUC"
+    },
+    {
+      "date": 18807,
+      "event_close": 164.39999389648438,
+      "k": 0.16666666666666666,
+      "prev_close": 295.20001220703125,
+      "ticker": "BTTR"
+    },
+    {
+      "date": 18814,
+      "event_close": 1.9800000190734863,
+      "k": 0.01,
+      "prev_close": 1.149999976158142,
+      "ticker": "BLPG"
+    },
+    {
+      "date": 18814,
+      "event_close": 16.67049217224121,
+      "k": 0.6666666666666666,
+      "prev_close": 8.877619743347168,
+      "ticker": "PEGRF"
+    },
+    {
+      "date": 18820,
+      "event_close": 8.260000228881836,
+      "k": 0.0006666666666666666,
+      "prev_close": 14.725000381469727,
+      "ticker": "PMCB"
+    },
+    {
+      "date": 18827,
+      "event_close": 1150.0,
+      "k": 0.001,
+      "prev_close": 3000.0,
+      "ticker": "RNVA"
+    },
+    {
+      "date": 18845,
+      "event_close": 4.900000095367432,
+      "k": 0.013333333333333334,
+      "prev_close": 1.5,
+      "ticker": "CATG"
+    },
+    {
+      "date": 18856,
+      "event_close": 6.360000133514404,
+      "k": 0.1,
+      "prev_close": 0.6499999761581421,
+      "ticker": "BTCS"
+    },
+    {
+      "date": 18892,
+      "event_close": 0.6499999761581421,
+      "k": 0.1,
+      "prev_close": 6.5,
+      "ticker": "GBCS"
+    },
+    {
+      "date": 18913,
+      "event_close": 1221.5999755859375,
+      "k": 0.5,
+      "prev_close": null,
+      "ticker": "BBLG"
+    },
+    {
+      "date": 18921,
+      "event_close": 5.119999885559082,
+      "k": 0.05,
+      "prev_close": 102.4000015258789,
+      "ticker": "FVTI"
+    },
+    {
+      "date": 18933,
+      "event_close": 3.5,
+      "k": 0.02,
+      "prev_close": 5.400000095367432,
+      "ticker": "SURG"
+    },
+    {
+      "date": 18948,
+      "event_close": 0.06782899796962738,
+      "k": 5.0,
+      "prev_close": 0.02399200014770031,
+      "ticker": "OGAA"
+    },
+    {
+      "date": 18949,
+      "event_close": 0.15000000596046448,
+      "k": 5.0,
+      "prev_close": 0.06782899796962738,
+      "ticker": "OGAA"
+    },
+    {
+      "date": 18955,
+      "event_close": 1.052662968635559,
+      "k": 0.01,
+      "prev_close": 0.7345770001411438,
+      "ticker": "AGNPF"
+    },
+    {
+      "date": 18960,
+      "event_close": 1.0,
+      "k": 0.1,
+      "prev_close": 0.09099999815225601,
+      "ticker": "NVAAF"
+    },
+    {
+      "date": 18997,
+      "event_close": 2.299999952316284,
+      "k": 0.1111111111111111,
+      "prev_close": 1.440000057220459,
+      "ticker": "APCX"
+    },
+    {
+      "date": 19030,
+      "event_close": 497.25,
+      "k": 0.0125,
+      "prev_close": null,
+      "ticker": "AREB"
+    },
+    {
+      "date": 19037,
+      "event_close": 4.650000095367432,
+      "k": 0.03333333333333333,
+      "prev_close": 8.699999809265137,
+      "ticker": "VIVK"
+    }
+  ],
+  "div_events": 241706,
+  "halted_out": 2196622,
+  "mcap_gate": "PENDING — no shares-outstanding in price data (see DECISIONS.md D5)",
+  "price_pass": 23656759,
+  "repaired_rows": 103817,
+  "rows_in": 34646258,
+  "rows_out": 34646258,
+  "split_ambiguous": 342,
+  "split_events": 7726,
+  "split_missed_repaired": 77,
+  "split_nan_inf": 3,
+  "split_ok_vendor": 6616,
+  "tickers": 9315,
+  "tradable_false": 4586979,
+  "universe_pass": 7279667,
+  "universe_rows": 34646258,
+  "zero_close": 91215
+}
